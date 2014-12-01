@@ -19,7 +19,7 @@ public class TestRunner {
      * We can fine tune the benchmark with additional
      * annotated parameters using benchmark options.
      */
-    @BenchmarkOptions(benchmarkRounds = 100, warmupRounds = 20, concurrency=20)
+    @BenchmarkOptions(benchmarkRounds = 20, warmupRounds = 2, concurrency=2)
     @Test
     public void testTraditionalMultiThreading() throws Exception {
  

@@ -33,8 +33,7 @@ public class CompletionAsyncDriver {
 		    	Object turn = null;
 		    	try{
 		    	returnString = Request
-		    	
-						.Get("	")
+						.Get("http://delvmpllbbab09:7003//rest/model/com/sgs/browse/EndecaContentCollectionActor/getCategories")
 						.execute().returnContent().asString();
 				
 				ScriptEngineManager engineManager = new ScriptEngineManager();
