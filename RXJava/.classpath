@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/client"/>
+	<classpathentry kind="lib" path="D:/Apps/lunaee/libs/junit-benchmarks-0.7.2/junit-benchmarks-0.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/lunaee/libs/junit-benchmarks-0.7.2/junit-benchmarks-0.7.2-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
